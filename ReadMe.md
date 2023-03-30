@@ -13,4 +13,4 @@
 
 # Links
 [CakeResume](https://www.cakeresume.com/me/chieh-huan)<br/>
-[examples](https://www.youtube.com/@chiehhuan1538)
+[Examples](https://www.youtube.com/@chiehhuan1538)
