@@ -12,5 +12,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 # Links
-[CakeResume](https://www.cakeresume.com/me/chieh-huan)<br/>
+[CakeResume](https://www.cakeresume.com/me/chieh-huan/portfolios)<br/>
 [Examples](https://www.youtube.com/@chiehhuan1538)
